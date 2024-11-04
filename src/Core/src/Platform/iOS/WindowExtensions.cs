@@ -4,9 +4,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Maui.Devices;
 using UIKit;
-#if MACCATALYST
-using AppKit;
-#endif
 
 namespace Microsoft.Maui.Platform
 {
